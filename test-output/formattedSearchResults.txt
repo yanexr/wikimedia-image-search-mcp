@@ -1,0 +1,217 @@
+
+Each result contains: index, url (url to fetch the image, replace 256px with desired width up to the original image width), size (bytes), width, height, descriptionurl (webpage link), and optional: caption, date, description, credit, artist, license (name, usageTerms, url).
+
+Showing 12 results:
+
+- index: 1
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/330px-Felis_catus-cat_on_snow.jpg
+  width: 3000
+  height: 2000
+  aspectRatio: '3:2'
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=9437797
+  size: 2125399
+  caption: Felis catus-cat on snow
+  date: '2010-02-09'
+  description: Domestic cat, a ten month old female.
+  credit: Own work
+  artist: Von.grzanka
+  license:
+    name: CC BY-SA 3.0
+    usageTerms: Creative Commons Attribution-Share Alike 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+- index: 2
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cat_playing_with_a_lizard.jpg/330px-Cat_playing_with_a_lizard.jpg
+  width: 5557
+  height: 3125
+  aspectRatio: ≈16:9
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=68960758
+  size: 8231099
+  caption: Cat playing with a lizard
+  date: '2018-04-26 12:19:23'
+  description: >-
+    Seated Felis silvestris catus (domestic cat) playing with a passive Calotes versicolor, (oriental garden lizard),
+    facing it, in Laos
+  credit: Own work
+  artist: Basile Morin
+  license:
+    name: CC BY-SA 4.0
+    usageTerms: Creative Commons Attribution-Share Alike 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0
+- index: 3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/330px-Cat_November_2010-1a.jpg
+  width: 1795
+  height: 2397
+  aspectRatio: ≈3:4
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=12127693
+  size: 2833605
+  caption: Cat November 2010-1a
+  date: "November 2010 (21 November 2010,\_according to Exif data)"
+  description: Young male tabby cat, Portugal.
+  credit: Own work
+  artist: Alvesgaspar
+  license:
+    name: CC BY-SA 3.0
+    usageTerms: Creative Commons Attribution-Share Alike 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+- index: 4
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sleeping_cat_on_her_back.jpg/330px-Sleeping_cat_on_her_back.jpg
+  width: 2304
+  height: 2304
+  aspectRatio: '1:1'
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=11010144
+  size: 1653479
+  caption: Sleeping cat on her back
+  date: '2009-10-24 13:30:41'
+  description: Sleeping cat on her back.
+  credit: Flickr
+  artist: Umberto Salvagnin
+  license:
+    name: CC BY 2.0
+    usageTerms: Creative Commons Attribution 2.0
+    url: https://creativecommons.org/licenses/by/2.0
+- index: 5
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/June_odd-eyed-cat_cropped.jpg/330px-June_odd-eyed-cat_cropped.jpg
+  width: 1858
+  height: 1565
+  aspectRatio: ≈19:16
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=18523021
+  size: 580625
+  caption: June odd-eyed-cat cropped
+  date: 2012-02-28 07:46
+  description: Photo by Keith Kissel, taken from flickr.com, under a creative commons license and created by the submitter
+  credit: This image has been extracted from another file
+  artist: Keith Kissel
+  license:
+    name: CC BY 2.0
+    usageTerms: Creative Commons Attribution 2.0
+    url: https://creativecommons.org/licenses/by/2.0
+- index: 6
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20231125_housecat_south_meadows_PD100306.jpg/330px-20231125_housecat_south_meadows_PD100306.jpg
+  width: 3493
+  height: 3493
+  aspectRatio: '1:1'
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=141562823
+  size: 11150227
+  caption: 20231125 housecat south meadows PD100306
+  date: '2023-11-25 10:02:19'
+  description: Outdoor House-cat, Rivermead Pointe North, East Hartford, CT USA
+  credit: Own work
+  artist: Paul Danese
+  license:
+    name: CC BY-SA 4.0
+    usageTerms: Creative Commons Attribution-Share Alike 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0
+- index: 7
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Six_weeks_old_cat_%28aka%29.jpg/330px-Six_weeks_old_cat_%28aka%29.jpg
+  width: 2122
+  height: 1415
+  aspectRatio: ≈3:2
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=217417
+  size: 1002278
+  caption: Six weeks old cat (aka)
+  date: |
+    26 June 2005
+  description: A six-week old kitten.
+  credit: |
+    Own work
+  artist: |
+    André Karwath aka Aka
+  license:
+    name: CC BY-SA 2.5
+    usageTerms: Creative Commons Attribution-Share Alike 2.5
+    url: https://creativecommons.org/licenses/by-sa/2.5
+- index: 8
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cat_Sphynx._Kittens._img_11.jpg/330px-Cat_Sphynx._Kittens._img_11.jpg
+  width: 3577
+  height: 2500
+  aspectRatio: ≈10:7
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=85683888
+  size: 4248911
+  caption: Cat Sphynx. Kittens. img 11
+  date: '2016-04-16 17:16:08'
+  description: A Sphynx cat kitten. Sphinx kitten in Russia.
+  credit: Own work
+  artist: Dmitry Makeev
+  license:
+    name: CC BY-SA 4.0
+    usageTerms: Creative Commons Attribution-Share Alike 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0
+- index: 9
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg/330px-Tabby_cat_with_blue_eyes-3336579.jpg
+  width: 2877
+  height: 3456
+  aspectRatio: ≈5:6
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=68608952
+  size: 2114775
+  caption: Tabby cat with blue eyes-3336579
+  date: '2018-03-31'
+  description: Portrait of a black tabby and white cat with Dominant Blue Eyes (DBE)
+  credit: https://pixabay.com/en/cat-blue-eyes-about-pet-3336579/ archive copy at the Wayback Machine
+  artist: AdinaVoicu
+  license:
+    name: CC0
+    usageTerms: Creative Commons Zero, Public Domain Dedication
+    url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+- index: 10
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tired_20-year-old_cat.jpg/330px-Tired_20-year-old_cat.jpg
+  width: 2484
+  height: 1870
+  aspectRatio: ≈4:3
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=9809267
+  size: 3017217
+  caption: Tired 20-year-old cat
+  date: '2009-01-18'
+  description: A 20-year-old cat that looks tired because of its advanced age.
+  credit: Own work • Flickr
+  artist: Dimitri “Diti” Torterat
+  license:
+    name: CC BY 2.0 fr
+    usageTerms: Creative Commons Attribution 2.0 fr
+    url: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+- index: 11
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domestic_Cat_Face_Shot.jpg/330px-Domestic_Cat_Face_Shot.jpg
+  width: 2250
+  height: 1500
+  aspectRatio: '3:2'
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=73471816
+  size: 1908469
+  caption: Domestic Cat Face Shot
+  date: '2018-10-07 01:58:18'
+  description: Domestic Cat
+  credit: Own work
+  artist: "Augustus Binu\_: flickr"
+  license:
+    name: CC BY-SA 3.0
+    usageTerms: Creative Commons Attribution-Share Alike 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+- index: 12
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Domestic_cat_2011_G02.jpg/330px-Domestic_cat_2011_G02.jpg
+  width: 5184
+  height: 3456
+  aspectRatio: '3:2'
+  descriptionurl: https://commons.wikimedia.org/w/index.php?curid=12676003
+  size: 8132575
+  caption: Domestic cat 2011 G02
+  date: '2011-01-08'
+  description: Domestic cat (Felis silvestris catus). 5 year old male. Ukraine.
+  credit: Own work
+  artist: George Chernilevsky
+  license:
+    name: Public domain
+    usageTerms: Public domain
+
+
+If nothing found what you're looking for, try a different query or use offset=12 to see more results.
+
+To download images: use the image URL and replace '256px' with your desired width (up to original width).
+
+Compare the images in the search results to choose the most suitable for your task. You may fetch the image(s) using the fetch or download tool (if available), report your findings or use otherwise as needed.

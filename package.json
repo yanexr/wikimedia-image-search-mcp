@@ -1,0 +1,58 @@
+{
+  "name": "wikimedia-image-search-mcp",
+  "version": "1.0.0",
+  "description": "MCP server enabling AI assistants to search Wikimedia Commons images with metadata and visual previews",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "wikimedia-image-search-mcp": "./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanexr/wikimedia-image-search-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanexr/wikimedia-image-search-mcp/issues"
+  },
+  "homepage": "https://github.com/yanexr/wikimedia-image-search-mcp#readme",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "pnpm build",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "clean": "rm -rf dist",
+    "inspect": "npx @modelcontextprotocol/inspector node dist/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "wikimedia",
+    "image-search",
+    "ai",
+    "llm",
+    "model-context-protocol"
+  ],
+  "author": "yanexr",
+  "license": "MIT",
+  "packageManager": "pnpm@10.19.0",
+  "devDependencies": {
+    "@jest/globals": "^30.2.0",
+    "@types/jest": "^30.0.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^24.10.1",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.22.0",
+    "js-yaml": "^4.1.1",
+    "sharp": "^0.34.5",
+    "zod": "^3.23.8"
+  }
+}
