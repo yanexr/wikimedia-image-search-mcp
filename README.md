@@ -128,11 +128,7 @@ You can view examples of the output files in the `test-output/` directory:
 
 ## Demonstration
 
-<video src="https://github.com/yanexr/wikimedia-image-search-mcp/raw/main/demo.mp4" controls="controls" style="max-width: 100%;">
-  <a href="https://github.com/yanexr/wikimedia-image-search-mcp/raw/main/demo.webm">Watch the demo video</a>
-</video>
-
-[Located on GitHub](https://github.com/yanexr/wikimedia-image-search-mcp/raw/main/demo.webm)
+![](https://github.com/yanexr/wikimedia-image-search-mcp/raw/main/demo.gif)
 
 ## Development
 
