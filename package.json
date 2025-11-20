@@ -53,6 +53,7 @@
     "@modelcontextprotocol/sdk": "^1.22.0",
     "js-yaml": "^4.1.1",
     "sharp": "^0.34.5",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.25.0"
   }
 }
