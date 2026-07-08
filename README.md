@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yanexr-wikimedia-image-search-mcp-badge.png)](https://mseep.ai/app/yanexr-wikimedia-image-search-mcp)
+
 # Wikimedia Image Search MCP Server
 
 This MCP (Model Context Protocol) server enables AI assistants to search for images on Wikimedia Commons. It provides detailed metadata and optional thumbnail composites to help AI models visually compare results.
